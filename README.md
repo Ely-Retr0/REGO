@@ -130,7 +130,7 @@ REGO piensa como un profesional de **Purple Team** — entiende seguridad ofensi
 | OS | Linux (any distro) | Debian 13 / Ubuntu 22.04+ |
 | Python | 3.8+ | 3.11+ |
 
-> **Tested on / Probado en:** ThinkPad T480 · Intel Core i7 · 16 GB RAM · Intel UHD 620 · Debian 13 Trixie
+> **Tested on / Probado en:** ThinkPad T480 · Intel Core i5 · 16 GB RAM · Intel UHD 620 · Debian 13 Trixie
 
 ---
 
@@ -140,7 +140,7 @@ REGO piensa como un profesional de **Purple Team** — entiende seguridad ofensi
 
 ```bash
 # 1. Clone the repo / Clonar el repo
-git clone https://github.com/TU_USUARIO/REGO.git
+git clone https://github.com/Ely-Retr0/REGO.git
 cd REGO
 
 # 2. Install Ollama / Instalar Ollama
