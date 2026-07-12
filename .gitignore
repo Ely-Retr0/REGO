@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+ 
+# REGO database (personal data / datos personales)
+~/.rego/
+ 
+# Ollama models (too large / demasiado grandes)
+~/.ollama/
+ 
+# Logs
+*.log
+*.txt.bak
+ 
+# OS
+.DS_Store
+Thumbs.db
+ 
+# Editor
+.vscode/
+.idea/
+*.swp
+ 
