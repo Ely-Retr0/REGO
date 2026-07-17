@@ -355,7 +355,8 @@ MIT License — feel free to use, modify and share.
 
 <div align="center">
 
-@Ely-Retr0
-"Think outside the firewall"
+**Elias Diaz Gutierrez** — [@Ely-Retr0](https://github.com/Ely-Retr0)
+
+Think outside the firewall.
 
 </div>
