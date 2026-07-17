@@ -355,9 +355,7 @@ MIT License — feel free to use, modify and share.
 
 <div align="center">
 
-Made with 🔥 by Regolith | Purple Team mindset
-
-*"To defend a system, you must first know how to break it."*
-*"Para defender un sistema, primero debes saber cómo romperlo."*
+@Ely-Retr0
+"Think outside the firewall"
 
 </div>
